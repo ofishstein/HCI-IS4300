@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Amelia\'s Taqueria</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_burrito">Order</string>
+
+    <string-array name="rice_array">
+        <item>None</item>
+        <item>Mexican Rice</item>
+        <item>White Rice</item>
+    </string-array>
+
+    <string-array name="bean_array">
+        <item>None</item>
+        <item>Black Beans</item>
+        <item>Pinto Beans</item>
+        <item>Refried Beans</item>
+    </string-array>
+</resources>
