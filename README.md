@@ -7,3 +7,6 @@ A sample app containing a mock UI for a burrito shop.
 
 ### I5 
 A simple painting app
+
+### I6 
+A simple layout manager POC
